@@ -6,10 +6,10 @@ import mysql.connector
 app = FastAPI()
 
 mysql_config = {
-    "host": "localhost",
-    "user": "adfinger",
-    "password": "FnWooxzhqWQsYJTD",
-    "database": "fingerprint",
+    "host": "xxxx",
+    "user": "xxxxx",
+    "password": "xxxxx",
+    "database": "xxxxxx",
     "autocommit": True
 }
 
